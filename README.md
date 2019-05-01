@@ -1,5 +1,4 @@
-# homeworkThree
-
+# Project Detail
 Using the flex-box method to position and style a products portion of a retailer's website.
 Sep 24, 2017
 
